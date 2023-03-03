@@ -1,0 +1,4 @@
+# HalifaxCanoeAndKayakAssignment
+assignment1
+
+:) 
